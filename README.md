@@ -1,13 +1,13 @@
 ## react-language-cards
 
-![Animation](https://github.com/bbluechip/react-album-app/blob/master/Albums.gif)
+![Animation](https://github.com/bbluechip/react-language-cards/blob/master/language%20cards.gif)
 
-👉[Click here to see the page](https://react-album-app.vercel.app/)
+👉[Click here to see the page](https://react-language-cards-steel.vercel.app/)
 
 ## Used in this project
 👉 Create react app, Reactjs, useState hooks, button toggle via react etc.
 
-👉 CSS via scss etc.
+👉 CSS etc.
 
 👉 Github & Git commands (push, pull, commit, add etc.)
 
